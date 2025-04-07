@@ -1,3 +1,4 @@
+![photo_2024-02-07_16-32-24-removebg-preview](https://github.com/user-attachments/assets/89fe2d60-34d2-4458-aa82-968c2fd1df56)
 # SymptomAI-Senior-Project
  Using Artificial Intelligence in Early Diagnosis of Common Diseases
 
