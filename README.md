@@ -1,6 +1,6 @@
 # SymptomAI-Senior-Project
  Using Artificial Intelligence in Early Diagnosis of Common Diseases!
-![Symptom AI](https://github.com/user-attachments/assets/a5696c81-8e0e-46de-8f20-52d3c0120bb0)
+
 
 
  
@@ -10,6 +10,9 @@
 SymptomAI is a smart web-based medical diagnosis system developed as a senior graduation project. It allows users to input symptoms, receive predictions of possible diseases using a machine learning model, and facilitates treatment planning by doctors. The system also generates medical reports and includes validation mechanisms for medical accuracy.
 
 ---
+![Symptom AI](https://github.com/user-attachments/assets/a5696c81-8e0e-46de-8f20-52d3c0120bb0)
+
+
 
 ## 🔍 Features
 - Users input symptoms through an easy-to-use form
