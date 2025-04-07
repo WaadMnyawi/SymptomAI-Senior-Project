@@ -1,6 +1,6 @@
 # SymptomAI-Senior-Project
  Using Artificial Intelligence in Early Diagnosis of Common Diseases!
- [Symptom AI](https://github.com/user-attachments/assets/e17afced-1b72-4c62-81f1-80aa47a377d8)
+(https://github.com/user-attachments/assets/e17afced-1b72-4c62-81f1-80aa47a377d8)
 
  
 
